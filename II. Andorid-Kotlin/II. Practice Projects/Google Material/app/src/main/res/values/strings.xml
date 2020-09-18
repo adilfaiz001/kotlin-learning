@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Google Material</string>
+    <string name="shr_app_name">Shrine</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">NEXT</string>
+    <string name="shr_button_cancel">CANCEL</string>
+    <string name="shr_error_password">Password is invalid</string>
+    <string name="shr_search_title">Search</string>
+    <string name="shr_filter_title">Filter</string>
+    <string name="shr_product_title">Product Title</string>
+    <string name="shr_product_description">Product Description</string>
+</resources>
