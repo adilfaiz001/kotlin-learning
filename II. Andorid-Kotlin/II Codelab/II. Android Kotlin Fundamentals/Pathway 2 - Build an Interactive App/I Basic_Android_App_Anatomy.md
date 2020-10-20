@@ -50,11 +50,7 @@
 - A toast is a view that shows the user a simple message in a small popup window.
 
 - To create a toast, call the makeText() factory method on the Toast class with three arguments:
-
-  ```
     - The context of the app Activity
     - The message to display, for example a string resource
     - A duration, for example Toast.LENGTH_SHORT
-  ```
-
 - To display the toast, call show().
