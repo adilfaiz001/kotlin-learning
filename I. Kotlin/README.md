@@ -1,6 +1,5 @@
-# Kotlin and Android Development Learning 
+# Kotlin 
 
 This repository is for kotlin and android-development learning.
 
-## Android Development
-1. [App Fundamentals](https://developer.android.com/guide/components/fundamentals)
+## Phase I - Basics of Kotlin
